@@ -1,0 +1,79 @@
+<settings>
+    <QUESTIONS>
+        <question>HAVE YOU HEARD OF &quot;BREAKCORE&quot;</question>
+        <TOKENS>
+            <L1>MusicianShip</L1>
+            <YES>10</YES>
+            <NO>-10</NO>
+            <L2>Experimental Value</L2>
+            <YES>20</YES>
+            <NO>-5</NO>
+            <L2>Lyrics</L2>
+            <YES>2</YES>
+            <NO>10</NO>
+            <L2>Performance</L2>
+            <YES>20</YES>
+            <NO>-8</NO>
+        </TOKENS>
+        <question>&quot;ENTER THE WUTANG&quot; IS THE BEST WU-ALBUM</question>
+        <TOKENS>
+            <L1>MusicianShip</L1>
+            <YES>20</YES>
+            <NO>-10</NO>
+            <L2>Experimental Value</L2>
+            <YES>9</YES>
+            <NO>-5</NO>
+            <L2>Lyrics</L2>
+            <YES>20</YES>
+            <NO>-8</NO>
+            <L2>Performance</L2>
+            <YES>10</YES>
+            <NO>7</NO>
+        </TOKENS>
+        <question>DO YOU PREFER &quot;KID A&quot; OVER &quot;OK COMPUTER&quot;?</question>
+        <TOKENS>
+            <L1>MusicianShip</L1>
+            <YES>-5</YES>
+            <NO>10</NO>
+            <L2>Experimental Value</L2>
+            <YES>30</YES>
+            <NO>-10</NO>
+            <L2>Lyrics</L2>
+            <YES>10</YES>
+            <NO>15</NO>
+            <L2>Performance</L2>
+            <YES>8</YES>
+            <NO>10</NO>
+        </TOKENS>
+        <question>HIP HOP HAS BEEN SHIT SINCE 1996</question>
+        <TOKENS>
+            <L1>MusicianShip</L1>
+            <YES>20</YES>
+            <NO>10</NO>
+            <L2>Experimental Value</L2>
+            <YES>-10</YES>
+            <NO>20</NO>
+            <L2>Lyrics</L2>
+            <YES>30</YES>
+            <NO>-15</NO>
+            <L2>Performance</L2>
+            <YES>20</YES>
+            <NO>15</NO>
+        </TOKENS>
+        <question>IS IT A GOOD IDEA TO HIRE TONY AS A CREATIVE TECHNOLOGIST?</question>
+        <TOKENS>
+            <L1>MusicianShip</L1>
+            <YES>50</YES>
+            <NO>-50</NO>
+            <L2>Experimental Value</L2>
+            <YES>50</YES>
+            <NO>-40</NO>
+            <L2>Lyrics</L2>
+            <YES>100</YES>
+            <NO>-50</NO>
+            <L2>Performance</L2>
+            <YES>90</YES>
+            <NO>-30</NO>
+        </TOKENS>
+    </QUESTIONS>
+</settings>
